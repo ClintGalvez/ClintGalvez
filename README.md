@@ -1,4 +1,20 @@
-### Hi there 👋
+<!-- intro -->
+### Hey there! 👋
+
+<!-- skills & experience -->
+
+
+<!-- currently working on -->
+
+
+<!-- currently learning -->
+
+
+<!-- contacts -->
+[![](/email.png)](mailto:clint.career@gmail.com)
+[![](/linkedin.png)](https://www.linkedin.com/in/clint-galvez/)
+<!-- [![](/insta.png)](hhttps://www.instagram.com/crosoar.clint/) -->
+<!-- Personal Website: clintgalvez.com -->
 
 <!--
 **ClintGalvez/ClintGalvez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
