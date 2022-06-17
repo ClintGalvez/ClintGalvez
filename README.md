@@ -1,5 +1,5 @@
 <!-- intro -->
-### Hey there! 👋
+### Hey there! <img src="https://raw.githubusercontent.com/ClintGalvez/ClintGalvez/main/wave.gif" width="30px" height="30px" />
 
 <!-- skills & experience -->
 
