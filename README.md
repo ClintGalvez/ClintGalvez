@@ -30,22 +30,8 @@
 
 <!-- contacts -->
 ## Contacts 📱
-[![](/assets/gmail.svg)](mailto:clint.career@gmail.com)
-[![](/assets/linkedin.svg)](https://www.linkedin.com/in/clint-galvez/)
-<!-- [![](/insta.png)](hhttps://www.instagram.com/crosoar.clint/) -->
+
+<a href="mailto:clint.career@gmail.com"><img src="https://github.com/ClintGalvez/ClintGalvez/blob/main/assets/gmail.svg" width="30px" height="30px"></a>
+<a href="https://www.linkedin.com/in/clint-galvez/"><img src="https://github.com/ClintGalvez/ClintGalvez/blob/main/assets/linkedin.svg" width="30px" height="30px"></a>
+<a href="https://www.instagram.com/crosoar.clint/"><img src="https://github.com/ClintGalvez/ClintGalvez/blob/main/assets/instagram.svg" width="30px" height="30px"></a>
 <!-- Personal Website: clintgalvez.com -->
-
-<!--
-**ClintGalvez/ClintGalvez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
