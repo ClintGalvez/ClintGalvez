@@ -1,11 +1,13 @@
 <!-- intro -->
-<img src="https://github.com/ClintGalvez/ClintGalvez/blob/main/assets/banner.gif" />
-
+<img src="https://github.com/ClintGalvez/ClintGalvez/blob/main/assets/banner.png" />
 <h1 align='center'> Hey there! <img src="https://github.com/ClintGalvez/ClintGalvez/blob/main/assets/wave.gif" width="30px" height="30px" />  </h1> 
 <p align='center'> The name's Clint and welcome to my github! </p>
 
+
 <!-- skills & experience -->
-## 🔧 My experiences...
+<details open align='left'>
+  <summary> <h2> 🔧 My experiences... </h1> </summary>
+  
 ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=000000&color=f0eff4)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000&color=f0eff4)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=000000&color=f0eff4)
@@ -24,13 +26,20 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000&color=f0eff4)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=000000&color=f0eff4)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=000000&color=f0eff4)
+  
+</details>
+
 
 <!-- currently working on -->
-<h2 align='right'> ...Currently working on 🔬🧪 </h1>
+<details open align='right'>
+  <summary> <h2> ...Currently working on 🔬🧪 </h1> </summary>
+  
+  ```c++
+  - NA - 
+  ```
+  
+</details>
 
-<p>
-- NA -
-</p>
 
 <!-- contacts -->
 <h2 align='center'> Contacts 📱 </h1>
