@@ -1,5 +1,8 @@
 <!-- intro -->
-# Hey there! <img src="https://github.com/ClintGalvez/ClintGalvez/blob/main/assets/wave.gif" width="30px" height="30px" />
+<img src="https://github.com/ClintGalvez/ClintGalvez/blob/main/assets/banner.gif" />
+
+<h1 align='center'> Hey there! <img src="https://github.com/ClintGalvez/ClintGalvez/blob/main/assets/wave.gif" width="30px" height="30px" />  </h1> 
+<p align='center'> The name's Clint and welcome to my github! </p>
 
 <!-- skills & experience -->
 ## 🔧 My experiences...
@@ -27,7 +30,7 @@
 
 <p>
 - NA -
-<p/>
+</p>
 
 <!-- contacts -->
 <h2 align='center'> Contacts 📱 </h1>
@@ -36,5 +39,5 @@
 <a href="mailto:clint.career@gmail.com"><img src="https://github.com/ClintGalvez/ClintGalvez/blob/main/assets/gmail.svg" width="30px" height="30px"></a>
 <a href="https://www.linkedin.com/in/clint-galvez/"><img src="https://github.com/ClintGalvez/ClintGalvez/blob/main/assets/linkedin.svg" width="30px" height="30px"></a>
 <a href="https://www.instagram.com/crosoar.clint/"><img src="https://github.com/ClintGalvez/ClintGalvez/blob/main/assets/instagram.svg" width="30px" height="30px"></a>
-<p/>
+</p>
 <!-- Personal Website: clintgalvez.com -->
