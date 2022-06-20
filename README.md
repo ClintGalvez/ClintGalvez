@@ -1,11 +1,13 @@
 <!-- intro -->
+<!-- ---------------------------------------------------------------- -->
 <img src="https://github.com/ClintGalvez/ClintGalvez/blob/main/assets/banner.png" />
-<h1 align='center'> Hey there! <img src="https://github.com/ClintGalvez/ClintGalvez/blob/main/assets/wave.gif" width="30px" height="30px" />  </h1> 
-<p align='center'> The name's Clint and welcome to my github! </p>
+<h1 align="center"> Hey there! <img src="https://github.com/ClintGalvez/ClintGalvez/blob/main/assets/wave.gif" width="30px" height="30px" />  </h1> 
+<p align="center"> The name's Clint and welcome to my github! </p>
 
 
 <!-- skills & experience -->
-<details open align='left'>
+<!-- ---------------------------------------------------------------- -->
+<details open align="left">
   <summary> <h2> 🔧 My experiences... </h1> </summary>
   
 ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=000000&color=f0eff4)
@@ -31,7 +33,8 @@
 
 
 <!-- currently working on -->
-<details open align='right'>
+<!-- ---------------------------------------------------------------- -->
+<details open align="right">
   <summary> <h2> ...Currently working on 🔬🧪 </h1> </summary>
   
   ```c++
@@ -42,9 +45,10 @@
 
 
 <!-- contacts -->
-<h2 align='center'> Contacts 📱 </h1>
+<!-- ---------------------------------------------------------------- -->
+<h2 align="center"> Contacts 📱 </h1>
 
-<p align='center'>
+<p align="center">
 <a href="mailto:clint.career@gmail.com"><img src="https://github.com/ClintGalvez/ClintGalvez/blob/main/assets/gmail.svg" width="30px" height="30px"></a>
 <a href="https://www.linkedin.com/in/clint-galvez/"><img src="https://github.com/ClintGalvez/ClintGalvez/blob/main/assets/linkedin.svg" width="30px" height="30px"></a>
 <a href="https://www.instagram.com/crosoar.clint/"><img src="https://github.com/ClintGalvez/ClintGalvez/blob/main/assets/instagram.svg" width="30px" height="30px"></a>
