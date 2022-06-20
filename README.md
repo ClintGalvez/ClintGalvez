@@ -1,8 +1,11 @@
 <!-- intro -->
-# Hey there! <img src="https://github.com/ClintGalvez/ClintGalvez/blob/main/assets/wave.gif" width="30px" height="30px" />
+<img src="https://github.com/ClintGalvez/ClintGalvez/blob/main/assets/banner.gif" />
+
+<h1 align='center'> Hey there! <img src="https://github.com/ClintGalvez/ClintGalvez/blob/main/assets/wave.gif" width="30px" height="30px" />  </h1> 
+<p align='center'> The name's Clint and welcome to my github! </p>
 
 <!-- skills & experience -->
-## My experiences...
+## 🔧 My experiences...
 ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=000000&color=f0eff4)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000&color=f0eff4)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=000000&color=f0eff4)
@@ -23,15 +26,18 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=000000&color=f0eff4)
 
 <!-- currently working on -->
-## Current projects...
+<h2 align='right'> ...Currently working on 🔬🧪 </h1>
 
-<!-- currently learning -->
-## Currently learning...
+<p>
+- NA -
+</p>
 
 <!-- contacts -->
-## Contacts 📱
+<h2 align='center'> Contacts 📱 </h1>
 
+<p align='center'>
 <a href="mailto:clint.career@gmail.com"><img src="https://github.com/ClintGalvez/ClintGalvez/blob/main/assets/gmail.svg" width="30px" height="30px"></a>
 <a href="https://www.linkedin.com/in/clint-galvez/"><img src="https://github.com/ClintGalvez/ClintGalvez/blob/main/assets/linkedin.svg" width="30px" height="30px"></a>
 <a href="https://www.instagram.com/crosoar.clint/"><img src="https://github.com/ClintGalvez/ClintGalvez/blob/main/assets/instagram.svg" width="30px" height="30px"></a>
+</p>
 <!-- Personal Website: clintgalvez.com -->
