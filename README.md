@@ -1,5 +1,5 @@
 <!-- intro -->
-<img src="https://github.com/ClintGalvez/ClintGalvez/blob/main/assets/banner.gif" />
+<img src="https://github.com/ClintGalvez/ClintGalvez/blob/main/assets/banner.png" />
 
 <h1 align='center'> Hey there! <img src="https://github.com/ClintGalvez/ClintGalvez/blob/main/assets/wave.gif" width="30px" height="30px" />  </h1> 
 <p align='center'> The name's Clint and welcome to my github! </p>
